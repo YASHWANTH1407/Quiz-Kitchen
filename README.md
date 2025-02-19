@@ -43,3 +43,15 @@ streamlit run app.py
 3️⃣ Review and edit questions as needed.
 4️⃣ Export the quiz or share it with others.
 
+
+
+**Screenshots**
+
+
+![Screenshot 2025-02-19 233157](https://github.com/user-attachments/assets/c294a938-309e-4b8f-bdb9-94e2f000b1ef)
+
+![Screenshot 2025-02-19 233207](https://github.com/user-attachments/assets/6dcaefd1-ba07-42c2-ab23-b1b26de78945)
+![Screenshot 2025-02-19 233217](https://github.com/user-attachments/assets/29941873-9204-4e82-b37f-c2d7204e9cde)
+![Screenshot 2025-02-19 233231](https://github.com/user-attachments/assets/ad6b62a2-18ce-4a1a-b260-5055e70e652d)
+![Screenshot 2025-02-19 233246](https://github.com/user-attachments/assets/d24c0afd-1fd7-463f-814a-48528d102275)
+![Screenshot 2025-02-19 233258](https://github.com/user-attachments/assets/565cc81b-2e43-40b4-9f40-380b1f960908)
