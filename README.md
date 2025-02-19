@@ -1,4 +1,5 @@
 📌 Quiz Kitchen - AI-Powered Quiz Generator
+
 🚀 Quiz Kitchen is an AI-powered automatic quiz generator that extracts key concepts from uploaded PDFs and generates quizzes efficiently. It leverages Natural Language Processing (NLP) to create high-quality questions, reducing manual effort and enhancing productivity for educators, trainers, and students.
 
 🚀 Features
