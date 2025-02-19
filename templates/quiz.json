@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is NOT a component of a computer system?",
+            "options": {
+                "A": "Hardware",
+                "B": "Operating system",
+                "C": "Application programs",
+                "D": "Users"
+            },
+            "correct_answer": "D",
+            "explanation": "Users are not a component of the computer system itself, but rather interact with the system through the operating system and application programs."
+        },
+        {
+            "question": "What is the primary purpose of an operating system?",
+            "options": {
+                "A": "To optimize hardware utilization",
+                "B": "To provide an environment for executing programs",
+                "C": "To interface with the user",
+                "D": "To manage file storage"
+            },
+            "correct_answer": "B",
+            "explanation": "The primary purpose of an operating system is to provide an environment in which users can execute programs in a convenient and efficient manner."
+        },
+        {
+            "question": "Which of the following is NOT a type of operating system structure?",
+            "options": {
+                "A": "Simple structure",
+                "B": "Layered approach",
+                "C": "Microkernels",
+                "D": "Monolithic structure"
+            },
+            "correct_answer": "D",
+            "explanation": "Monolithic structure is not a type of operating system structure, but rather refers to a design approach where all operating system components are combined into a single level."
+        },
+        {
+            "question": "What is the main advantage of the layered approach to operating system design?",
+            "options": {
+                "A": "Simplicity of construction and debugging",
+                "B": "Improved performance",
+                "C": "Increased security",
+                "D": "Reduced memory usage"
+            },
+            "correct_answer": "A",
+            "explanation": "The layered approach simplifies construction and debugging by allowing each layer to be implemented and tested independently."
+        },
+        {
+            "question": "Which of the following is NOT a service provided by an operating system?",
+            "options": {
+                "A": "User interface",
+                "B": "Program execution",
+                "C": "Error detection",
+                "D": "Hardware maintenance"
+            },
+            "correct_answer": "D",
+            "explanation": "Hardware maintenance is not a service provided by an operating system, but rather a task performed by system administrators or technicians."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary purpose of an operating system?",
+            "options": {
+                "A": "To provide an environment for executing programs",
+                "B": "To manage hardware resources",
+                "C": "To protect the computer from viruses",
+                "D": "To provide a graphical user interface"
+            },
+            "correct_answer": "A",
+            "explanation": "An operating system's main function is to create an environment where users can conveniently and efficiently execute programs."
+        },
+        {
+            "question": "Which of the following is NOT a component of a computer system?",
+            "options": {
+                "A": "Hardware",
+                "B": "Operating system",
+                "C": "Application programs",
+                "D": "Users"
+            },
+            "correct_answer": "D",
+            "explanation": "Users are not a component of a computer system, but rather interact with the system through the operating system."
+        },
+        {
+            "question": "What is the role of the kernel in an operating system?",
+            "options": {
+                "A": "To manage hardware and coordinate its use among programs",
+                "B": "To provide a graphical user interface",
+                "C": "To execute user programs",
+                "D": "To store files"
+            },
+            "correct_answer": "A",
+            "explanation": "The kernel is the core of the operating system, responsible for managing hardware resources and coordinating their use among various programs."
+        },
+        {
+            "question": "Which generation of operating systems introduced the concept of multiprogramming?",
+            "options": {
+                "A": "First Generation",
+                "B": "Second Generation",
+                "C": "Third Generation",
+                "D": "Fourth Generation"
+            },
+            "correct_answer": "C",
+            "explanation": "Multiprogramming, where multiple jobs are kept in memory simultaneously, was introduced in the Third Generation of operating systems."
+        },
+        {
+            "question": "What is the main advantage of a layered approach to operating system structure?",
+            "options": {
+                "A": "Improved security",
+                "B": "Simplified debugging",
+                "C": "Increased efficiency",
+                "D": "Reduced overhead"
+            },
+            "correct_answer": "B",
+            "explanation": "The layered approach simplifies debugging by allowing each layer to be tested independently, as it uses only lower-level layers."
+        }
+    ]
+}
